@@ -60,3 +60,15 @@ body{
     font-weight: bolder;
 
 }
+
+@media (max-width:768px) {
+    .top {
+        border: 1px solid black;
+        border-radius: 20px;
+        background-color: grey;
+        padding: 50px;
+        margin-top: 50px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+        }
